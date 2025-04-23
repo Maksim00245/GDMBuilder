@@ -30,7 +30,7 @@ jobs:
           buildozer android debug
 
       - name: Upload APK
-        uses: actions/upload-artifact@v2  # Используем v2 вместо v3
+        uses: actions/upload-artifact@v2
         with:
           name: app-debug.apk
           path: bin/*.apk
