@@ -1,0 +1,12 @@
+[
+    { "name": "Яблоко", "calories": 52 },
+    { "name": "Банан", "calories": 89 },
+    { "name": "Куриная грудка", "calories": 165 },
+    { "name": "Рис варёный", "calories": 130 },
+    { "name": "Картофель отварной", "calories": 86 },
+    { "name": "Огурец", "calories": 16 },
+    { "name": "Помидор", "calories": 18 },
+    { "name": "Яйцо куриное", "calories": 143 },
+    { "name": "Молоко 2.5%", "calories": 54 },
+    { "name": "Гречка варёная", "calories": 110 }
+]
